@@ -7,6 +7,7 @@ This is was made utilizing Bootstrap CSS framework to be a mobile responsive por
 ## URLs
 
 https://github.com/esober101/my-portfolio/
+
 https://esober101.github.io/my-portfolio/
 
 ## Screenshots
