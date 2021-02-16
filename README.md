@@ -14,7 +14,6 @@ https://esober101.github.io/my-portfolio/
 
 ![Screenshot](images/about.jpg "Screenshot")
 ![Screenshot](images/portfolio.jpg "Screenshot")
-![Screenshot](images/contact.jpg "Screenshot")
 
 ## MIT License
 
