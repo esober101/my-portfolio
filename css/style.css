@@ -32,6 +32,8 @@
 .card {
     background-color: rgba(245, 245, 245, 1);
     opacity: 0.85;
+    margin-top: 10%;
+    border-radius: 25px;
 }
 
 h5 {
